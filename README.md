@@ -2,6 +2,8 @@
 
 **Maintain your CV at a higher level of abstraction using coding agents.**
 
+**Star** this repo to bookmark it for later. **Fork** it to start building your own agentic CV workflow.
+
 ---
 
 ## Motivation
@@ -78,19 +80,3 @@
 3. Click **"Reopen in Container"** when prompted
 4. Edit `v1/master.tex` and save - your PDF appears automatically
 
-### Coding Agent Limitations
-
-The dev container is configured for LaTeX compilation only. Coding agents are **not** installed in the container image, so:
-
-- Coding agents inside the dev container won't work
-- VS Code-bound coding agents (like Cursor or GitHub Copilot Chat) won't have access to the container environment
-
-**Workaround:** Run your coding agent CLI (e.g., Claude Code) in a separate terminal outside VS Code. The agent can still read and edit files in your project directory while the dev container handles LaTeX compilation.
-
----
-
-## Start Building
-
-**Star** this repo to bookmark it for later.
-
-**Fork** it to start building your own agentic CV workflow.
