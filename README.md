@@ -2,9 +2,6 @@
 
 **Maintain your CV at a higher level of abstraction using coding agents.**
 
-[![Star this repo](https://img.shields.io/github/stars/YOUR_USERNAME/cv-resume?style=social)](https://github.com/YOUR_USERNAME/cv-resume)
-[![Fork this repo](https://img.shields.io/github/forks/YOUR_USERNAME/cv-resume?style=social)](https://github.com/YOUR_USERNAME/cv-resume/fork)
-
 ---
 
 ## Motivation
