@@ -2,7 +2,7 @@
 
 Maintain your CV at a higher level of abstraction using coding agents.
 
-<video src="https://github.com/madnanrizqu/vibe-cv-resume/raw/main/demo.mp4" controls="controls" muted="muted" width="600"></video>
+https://github.com/user-attachments/assets/0ef93cae-9ad0-4564-a6ef-3d8f5d3aec4c
 
 ---
 
